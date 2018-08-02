@@ -1,6 +1,8 @@
 ==============================
-Contribution getting started
+Contribution
 ==============================
+Getting started
+---------------
 
 What open source project doesn't like getting contributions? Don't hesitate to
 send us feature requests, bug reports, bug fixes, or pull requests.
@@ -10,7 +12,7 @@ send us feature requests, bug reports, bug fixes, or pull requests.
 
 .. _submitfeedback:
 
-Feature requests
+Feature Requests
 -------------------
 
 We are happy to consider new features, but be aware that we feel libraries are
